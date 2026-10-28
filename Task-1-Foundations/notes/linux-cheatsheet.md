@@ -31,7 +31,7 @@ An isolated virtual testing environment was created using Oracle VirtualBox with
 
 | Virtual Machine | Role | IP Address (Host-Only) |
 | :--- | :--- | :--- |
-| **Kali Linux** | Attacker Machine | `192.168.56.3` / `192.168.56.4` |
+| **Kali Linux** | Attacker Machine | `192.168.56.4` |
 | **Metasploitable2** | Vulnerable Target | `192.168.56.3` |
 
 ### Key Setup Verification
@@ -40,11 +40,12 @@ An isolated virtual testing environment was created using Oracle VirtualBox with
 
 ### Lab Setup Visuals
 * **VirtualBox Manager:**
-  ![VirtualBox Manager showing VMs running](screenshots/01_virtualbox_vms_running.png)
+  ![VirtualBox Manager showing VMs running]([screenshots/01_virtualbox_vms_running.png](https://github.com/suman-git74/Cybersecurity-Ethical-Hacking-ApexPlanet/blob/main/Task-1-Foundations/screenshots/VirtualBox_with_Kali_Metasploitable2_VMs%20listed.png))
 * **Host-Only Network Configuration:**
-  ![Host-Only Network Adapter settings](screenshots/02_host_only_network_settings.png)
+  ![Host-Only Network Adapter settings_kali]([screenshots/02_host_only_network_settings.png](https://github.com/suman-git74/Cybersecurity-Ethical-Hacking-ApexPlanet/blob/main/Task-1-Foundations/screenshots/Host-Only_Adapter_network_settings_k.png))
+  ![Host-Only Network Adapter settings_Metasploitable_2]([screenshots/02_host_only_network_settings.png](https://github.com/suman-git74/Cybersecurity-Ethical-Hacking-ApexPlanet/blob/main/Task-1-Foundations/screenshots/Host-Only_Adapter_network_settings_M.png))
 * **Ping Connectivity Test:**
-  ![Ping test between VMs](screenshots/03_ping_connectivity_test.png)
+  ![Ping test between VMs]([screenshots/03_ping_connectivity_test.png](https://github.com/suman-git74/Cybersecurity-Ethical-Hacking-ApexPlanet/blob/main/Task-1-Foundations/screenshots/Lab_setup_conformation.png))
 
 ---
 
