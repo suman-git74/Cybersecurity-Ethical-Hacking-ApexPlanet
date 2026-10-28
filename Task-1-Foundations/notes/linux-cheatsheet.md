@@ -78,25 +78,26 @@ An isolated virtual testing environment was created using Oracle VirtualBox with
 ## 6. Screenshots & Proof of Work
 
 * **Linux Networking & Diagnostics (`ifconfig`, `ping`, `traceroute`):**  
-  ![Linux Network Commands](Task-1-Foundations/screenshots/Kali_terminal-ifconfig_ping.png)
+  ![Linux Network Commands](https://github.com/suman-git74/Cybersecurity-Ethical-Hacking-ApexPlanet/blob/main/Task-1-Foundations/screenshots/Kali_terminal-ifconfig_ping.png)
 
 * **File Permissions & Python Script Execution (`chmod`, `chown`):**  
-  ![File Permissions and Script Execution](screenshots/05_chmod_chown_permissions.png)
+  ![File Permissions and Script Execution](https://github.com/suman-git74/Cybersecurity-Ethical-Hacking-ApexPlanet/blob/main/Task-1-Foundations/screenshots/chmod_permission_demo.png)
 
 * **System Updates & Package Management (`apt update`):**  
-  ![Apt Package Management](screenshots/06_apt_package_management.png)
+  ![Apt Package Management](https://github.com/suman-git74/Cybersecurity-Ethical-Hacking-ApexPlanet/blob/main/Task-1-Foundations/screenshots/apt_package_install_output.png)
 
 * **OpenSSL Symmetric Encryption & Decryption (AES-256):**  
-  ![OpenSSL Commands and Output](screenshots/07_openssl_encryption_decryption.png)
+  ![OpenSSL Commands and Output](https://github.com/suman-git74/Cybersecurity-Ethical-Hacking-ApexPlanet/blob/main/Task-1-Foundations/screenshots/OpenSSL_encrypt_decrypt_of_a_test_message.png)
 
 * **Wireshark Packet Capture & Analysis:**  
-  ![Wireshark Capture Window](screenshots/08_wireshark_packet_capture.png)
+  ![Wireshark Capture Window](https://github.com/suman-git74/Cybersecurity-Ethical-Hacking-ApexPlanet/blob/main/Task-1-Foundations/screenshots/Wireshark_with_test_capture.png)
 
 * **Nmap Scanning, Burp Suite Proxy, and Netcat Testing:**  
-  ![Tool Familiarization Screenshots](screenshots/09_nmap_burpsuite_netcat.png)
+  ![Tool Familiarization Screenshots](https://github.com/suman-git74/Cybersecurity-Ethical-Hacking-ApexPlanet/blob/main/Task-1-Foundations/screenshots/Nmap%2C_Burp_Suite%2C_Netcat.png)
 
 ---
 
 ## 7. Project Links
 * **Lab Setup Report (PDF):** `Task 1 Lab Report – Foundations & Environment Setup.pdf`
 * **GitHub Repository:** [suman-git74/Cybersecurity-Ethical-Hacking-ApexPlanet](https://github.com/suman-git74/Cybersecurity-Ethical-Hacking-ApexPlanet)
+* **• 5-min video walkthrough link:** [Lab Environment Setup](https://lnkd.in/p/dB4Tr_m4))
