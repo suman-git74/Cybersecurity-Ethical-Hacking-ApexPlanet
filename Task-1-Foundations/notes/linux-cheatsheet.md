@@ -98,6 +98,6 @@ An isolated virtual testing environment was created using Oracle VirtualBox with
 ---
 
 ## 7. Project Links
-* **Lab Setup Report (PDF):** `Task 1 Lab Report – Foundations & Environment Setup.pdf`
+* **Lab Setup Report (PDF):** [`Task 1 Lab Report – Foundations & Environment Setup.pdf`](https://github.com/suman-git74/Cybersecurity-Ethical-Hacking-ApexPlanet/blob/main/Task-1-Foundations/notes/Task%201%20Lab%20Report%20%E2%80%93%20Foundations%20%26%20Environment%20Setup.docx)
 * **GitHub Repository:** [suman-git74/Cybersecurity-Ethical-Hacking-ApexPlanet](https://github.com/suman-git74/Cybersecurity-Ethical-Hacking-ApexPlanet)
 * **• 5-min video walkthrough link:** [Lab Environment Setup](https://lnkd.in/p/dB4Tr_m4))
