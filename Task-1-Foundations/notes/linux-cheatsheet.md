@@ -78,7 +78,7 @@ An isolated virtual testing environment was created using Oracle VirtualBox with
 ## 6. Screenshots & Proof of Work
 
 * **Linux Networking & Diagnostics (`ifconfig`, `ping`, `traceroute`):**  
-  ![Linux Network Commands](screenshots/04_ifconfig_ping_traceroute.png)
+  ![Linux Network Commands](Task-1-Foundations/screenshots/Kali_terminal-ifconfig_ping.png)
 
 * **File Permissions & Python Script Execution (`chmod`, `chown`):**  
   ![File Permissions and Script Execution](screenshots/05_chmod_chown_permissions.png)
